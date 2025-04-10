@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/ledinhdat041203/hotelmanager-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ledinhdat041203/hotelmanager-frontend.git
